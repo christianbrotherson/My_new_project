@@ -7,3 +7,4 @@ def hello_word()
 
 hello_word()
 
+print('why did yall think this was so hard')
